@@ -1,7 +1,7 @@
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 1231,
-    "database": "Bankreporting",
+    "host": "dhchfsdfsnvb",
+    "port": 68945,
+    "database": "************",
     "user": "postgres",
-    "password": "Allahlove1231#$#"
+    "password": "**************"
 }
