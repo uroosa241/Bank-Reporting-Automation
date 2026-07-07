@@ -220,7 +220,7 @@ The logs include:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Bank-Reporting-Automation.git
+git clone https://github.com/uroosakhan/Bank-Reporting-Automation.git
 ```
 
 ---
